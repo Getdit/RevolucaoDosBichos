@@ -8413,7 +8413,7 @@ h1, h2, h3, h4, h5,
   transition: all 0.5s ease; }
   @media (min-width: 992px) {
     #colorlib-aside {
-      width: 26%; } }
+      width: 22%; } }
   @media (max-width: 991.98px) {
     #colorlib-aside {
       width: 270px;
@@ -8588,7 +8588,7 @@ h1, h2, h3, h4, h5,
   transition: all 0.5s ease; }
   @media (min-width: 992px) {
     #colorlib-main {
-      width: 75%; } }
+      width: 78%; } }
 
 .colorlib-nav-toggle {
   cursor: pointer;
